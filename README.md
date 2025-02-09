@@ -48,7 +48,7 @@ This project uses a **real-world dataset** from **Kaggle**:
 ## 🚀 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/github.com/vsumitwork/JioCinema-Analytics-AI-Generated.git
+   git clone https://github.com/vsumitwork/JioCinema-Analytics-AI-Generated.git
    ```
 2. Navigate into the project directory:
    ```bash
